@@ -2,6 +2,7 @@
   "name": "Pesquisa Rápida - Trabalhos de Pesquisa Confiaveis",
   "description": "Uma plataforma inteligente para estudantes moçambicanos gerarem material didático fidedigno, com citações automáticas e normas técnicas acadêmicas.",
   "requestFramePermissions": [
-    "geolocation"
+    "geolocation",
+    "microphone"
   ]
 }
